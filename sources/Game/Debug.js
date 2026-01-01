@@ -18,7 +18,7 @@ export class Debug
 
             addEventListener('keydown', (event) =>
             {
-                if(event.code === 'KeyH')
+                if(event.code === 'KeyD')
                     this.panel.hidden = !this.panel.hidden
             })
         }

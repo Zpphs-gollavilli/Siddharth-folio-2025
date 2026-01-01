@@ -3,6 +3,10 @@ import projectsData from './projects.js'
 
 export default
 [
+    // ===============================
+    // GAME / PORTFOLIO ACHIEVEMENTS
+    // ===============================
+
     [
         'landingLeave',
         'I’m going on an adventure!',
@@ -12,23 +16,23 @@ export default
     [
         'areas',
         'Traveler',
-        'Vist every area.',
+        'Visit every area.',
         13,
-        true // Unique
+        true
     ],
     [
         'projects',
         'But can you fix the wifi?',
         'Check every project in the <strong>projects</strong> area.',
         projectsData.length,
-        true // Unique
+        true
     ],
     [
         'lab',
         'I\'m a bit of a scientist myself',
         'Check every project in the <strong>lab</strong> area.',
         labData.length,
-        true // Unique
+        true
     ],
     [
         'cookie',
@@ -63,7 +67,7 @@ export default
     [
         'sea',
         'Under the sea',
-        'Go make friend with the fishes.',
+        'Go make friends with the fishes.',
         1
     ],
     [
@@ -93,7 +97,7 @@ export default
     [
         'honk',
         'Honk',
-        'Honk me like one of your french driver.',
+        'Honk me like one of your French drivers.',
         10
     ],
     [
@@ -101,7 +105,7 @@ export default
         'Great Explosion Murder God Dynamight',
         'Blow up every explosive crate.',
         20,
-        true // Unique
+        true
     ],
     [
         'goHigh',
@@ -111,8 +115,8 @@ export default
     ],
     [
         'strike',
-        'F*** it, dude. Let\'s go bowling',
-        'Accomplished a strike.',
+        'You Got a Strike',
+        'Accomplish a strike.',
         1
     ],
     [
@@ -172,7 +176,7 @@ export default
     [
         'cataclysm',
         'Witness me!',
-        'Witness a cataclysm',
+        'Witness a cataclysm.',
         1
     ],
     [
@@ -184,13 +188,13 @@ export default
     [
         'weatherRain',
         'I’m singing in the rain',
-        'Witness a rainy weather.',
+        'Witness rainy weather.',
         1
     ],
     [
         'lightning',
         '1.21 Gigawatts!',
-        'Get hit by a lightning.',
+        'Get hit by lightning.',
         1
     ],
     [
@@ -235,4 +239,49 @@ export default
         'This one can’t be achieved.',
         1
     ],
+
+    // ===============================
+    // SIDDU – PORTFOLIO ACHIEVEMENTS
+    // ===============================
+
+    [
+        'sidduPortfolio',
+        '🏆 Siddu Achievement Portfolio',
+        'A showcase of academic excellence, sports mastery, and technical expertise.'
+    ],
+    [
+        'sidduBadminton',
+        'State Champion Smash',
+        'Winner of <strong>State & Inter-State Badminton Championships</strong>, demonstrating discipline, focus, and competitive excellence.'
+    ],
+    [
+        'sidduChess',
+        'Mind Over Board',
+        'District-level <strong>Chess Champion</strong> and <strong>Inter-State Runner-Up</strong>, showcasing strategic thinking and patience.'
+        
+    ],
+    [
+        'sidduIT',
+        'Tech Talent Unlocked',
+        'Winner of <strong>IT / ITES Skill Competition</strong> and <strong>Career Expo District Champion</strong>, proving real-world technical skills.'
+       
+    ],
+    [
+        'sidduAcademics',
+        'Academic All-Rounder',
+        'Consistently <strong>strong academic performer</strong> with balanced excellence in studies and extracurricular activities.'
+       
+    ],
+    [
+        'sidduThreeJS',
+        '3D Web Architect',
+        'Skilled in <strong>Three.js</strong>, interactive 3D experiences, creative coding, and modern web technologies.'
+        
+    ],
+    [
+        'sidduQualities',
+        'Future-Ready Mindset',
+        'Self-motivated, disciplined, creative, fast learner, leadership-oriented, and passionate about technology and innovation.'
+        
+    ]
 ]
