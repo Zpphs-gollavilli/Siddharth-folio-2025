@@ -1,6 +1,6 @@
 # Folio 2025
 
-![image info](./static/social/share-image.png)
+
 
 ## Setup
 
